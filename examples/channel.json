@@ -1,0 +1,12 @@
+{
+  "name": "U-channel",
+  "notes": "Two 90 degree bends. Global K overrides the steel table.",
+  "t": 2,
+  "material": "steel",
+  "k": 0.33,
+  "legs": [20, 40, 20],
+  "bends": [
+    { "angle": 90, "r": 2 },
+    { "angle": 90, "radius": 2 }
+  ]
+}

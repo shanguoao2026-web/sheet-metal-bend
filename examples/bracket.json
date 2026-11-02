@@ -1,0 +1,9 @@
+{
+  "name": "right-angle bracket",
+  "thickness": 2,
+  "material": "aluminium",
+  "legs": [50, 30],
+  "bends": [
+    { "angle": 90, "radius": 2 }
+  ]
+}
